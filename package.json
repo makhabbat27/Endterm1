@@ -1,0 +1,20 @@
+{
+  "name": "endterm",
+  "version": "1.0.0",
+  "description": "Build your first-ever server with Node.js that serves static rеsources such as HTML documents, images, and videos",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Makhabbat Saifedenova",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
